@@ -19,5 +19,5 @@ main()
     char s[] = "odnum alo";
     inverte(s);
 
-   return 1;
+   return 0;
 }
