@@ -1,0 +1,7 @@
+da esquerda para a direita numerar os interruptores de 1 a 3
+
+acender o 1 e verificar qual sala acenderia e associà-la ao interruptor 1
+
+depois acender o 2 e verificar qual sala aceneu e associá-la ao respectivo interruptor
+
+o interruptor que sobrou seria associado a sala que não visitei.
